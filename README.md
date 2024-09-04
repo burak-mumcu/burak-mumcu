@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burak Mumcu</h1>
 <h3 align="center">I am a 3rd year student of software engineering at Kırklareli University</h3>
 
-- 🌱 I’m currently learning **AWS,Docker and Next.js**
+- 🌱 I’m currently learning **AWS,Docker and Nest.js**
 
 - 📝 I regularly write articles on [https://medium.com/@burakmumcu2534](https://medium.com/@burakmumcu2534)
 
