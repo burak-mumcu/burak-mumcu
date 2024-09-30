@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak Mumcu</h1>
-<h3 align="center">I am a 3rd year student of software engineering at Kırklareli University</h3>
+<h3 align="center">I am a final year student of software engineering at Kırklareli University</h3>
 
 - 🌱 I’m currently learning **AWS,Docker and Nest.js**
 
